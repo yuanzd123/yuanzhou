@@ -1,6 +1,6 @@
-
-exportTrailingSlash: true/** @type {import('next').NextConfig} */
+/** @type {import('next').NextConfig} */
 const nextConfig = {
+  output: 'export',
   images: {
     remotePatterns: [
       {
@@ -8,11 +8,9 @@ const nextConfig = {
         hostname: "images.unsplash.com",
       },
     ],
+    unoptimized: true,
   },
-  experimental: {
-    serverActions: true,
-  },
-  exportTrailingSlash: true
+  trailingSlash: true,
 };
 
 module.exports = nextConfig;
