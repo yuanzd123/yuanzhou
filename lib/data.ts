@@ -98,7 +98,7 @@ functionality in practical applications. `,
   {
     title: "Hodlnodes.com",
     description: `Led the design, architecture, and development of Hodlnodes.com and stake.hodlnodes.com, showcasing
-expertise in full-stack development. Used solidity to write the hodlnodes's smart contract on Ethereum. Pioneered the front-end application
+expertise in full-stack development. API: https://app.swaggerhub.com/apis-docs/YUANZHOU93/HODLNodes/1.0.2 Used solidity to write the hodlnodes's smart contract on Ethereum. Pioneered the front-end application
 of stake.hodlnodes.com using Next.js, creating a responsive and user-friendly interface. Engineered the back-end infrastructure utilizing
 Google Firestore, including designing a robust and scalable database schema, and ensured efficient hosting on Vercel. Spearheaded the
 setup and management of a staking device for the Ethereum blockchain, implementing a custom ARM Linux system. Maintained high
