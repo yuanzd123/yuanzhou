@@ -6,6 +6,7 @@ import hodlnodes from "@/public/hodlnodes.png";
 import supermint from "@/public/supermint.png";
 import tdsc from "@/public/tdsc.png";
 import network from "@/public/network.png";
+import blackjack from "@/public/blackjack.png";
 
 export const links = [
   {
@@ -118,6 +119,13 @@ and secure blockchain operations `,
     ],
     imageUrl: hodlnodes,
     projectLink: "https://www.hodlnodes.com/",
+  },
+  {
+    title: "Blackjack Card Tracker",
+    description: `Developed a blackjack card tracker using the YOLOv10 model. Created a comprehensive and refined dataset using Python. Trained the model to work accurately from any angle. Please take a look at my demo.`,
+    tags: ["Python", "YOLO", "SQLite"],
+    imageUrl: blackjack,
+    projectLink: "https://www.youtube.com/watch?v=4e6bThBxjsc",
   },
   {
     title: "Supermint",
