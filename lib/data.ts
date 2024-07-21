@@ -40,7 +40,8 @@ export const experiencesData = [
     title: "Multiverse.ai",
     location: "United States",
     description:
-      "Leds projects: Iron Horse RAG AI, Hodlnodes.com, Supermint, Multiverse Meta Land sales etc.",
+      // "Leds projects: Iron Horse RAG AI, Hodlnodes.com, Supermint, Multiverse Meta Land sales etc.",
+      "Leds projects: Iron Horse RAG AI, Supermint, Multiverse Meta Land sales etc.",
     icon: React.createElement(LuGithub),
     date: "2021 - present",
   },
@@ -95,31 +96,31 @@ functionality in practical applications. `,
     imageUrl: ironhorse,
     projectLink: "https://ironhorse-rag-demo-dev.web.app",
   },
-  {
-    title: "Hodlnodes.com",
-    description: `Led the design, architecture, and development of Hodlnodes.com and stake.hodlnodes.com, showcasing
-expertise in full-stack development. API: https://app.swaggerhub.com/apis-docs/YUANZHOU93/HODLNodes/1.0.3 Used solidity to write the hodlnodes's smart contract on Ethereum. Pioneered the front-end application
-of stake.hodlnodes.com using Next.js, creating a responsive and user-friendly interface. Engineered the back-end infrastructure utilizing
-Google Firestore, including designing a robust and scalable database schema, and ensured efficient hosting on Vercel. Spearheaded the
-setup and management of a staking device for the Ethereum blockchain, implementing a custom ARM Linux system. Maintained high
-security and reliability standards by managing the device’s firewall and overseeing continuous internet monitoring, ensuring uninterrupted
-and secure blockchain operations `,
-    tags: [
-      "Solidity",
-      "WalletConnect",
-      "Metamask",
-      "Google cloud functions",
-      "scheduler",
-      "firestore",
-      "React",
-      "TypeScript",
-      "Next.js",
-      "Tailwind",
-      "Redux",
-    ],
-    imageUrl: hodlnodes,
-    projectLink: "https://www.hodlnodes.com/",
-  },
+//   {
+//     title: "Hodlnodes.com",
+//     description: `Led the design, architecture, and development of Hodlnodes.com and stake.hodlnodes.com, showcasing
+// expertise in full-stack development. API: https://app.swaggerhub.com/apis-docs/YUANZHOU93/HODLNodes/1.0.3 Used solidity to write the hodlnodes's smart contract on Ethereum. Pioneered the front-end application
+// of stake.hodlnodes.com using Next.js, creating a responsive and user-friendly interface. Engineered the back-end infrastructure utilizing
+// Google Firestore, including designing a robust and scalable database schema, and ensured efficient hosting on Vercel. Spearheaded the
+// setup and management of a staking device for the Ethereum blockchain, implementing a custom ARM Linux system. Maintained high
+// security and reliability standards by managing the device’s firewall and overseeing continuous internet monitoring, ensuring uninterrupted
+// and secure blockchain operations `,
+//     tags: [
+//       "Solidity",
+//       "WalletConnect",
+//       "Metamask",
+//       "Google cloud functions",
+//       "scheduler",
+//       "firestore",
+//       "React",
+//       "TypeScript",
+//       "Next.js",
+//       "Tailwind",
+//       "Redux",
+//     ],
+//     imageUrl: hodlnodes,
+//     projectLink: "https://www.hodlnodes.com/",
+//   },
   {
     title: "Blackjack Card Tracker",
     description: `Developed a blackjack card tracker using the YOLOv10 model. Created a comprehensive and refined dataset using Python. Trained the model to work accurately from any angle. Please take a look at my demo.`,
